@@ -21,6 +21,21 @@ My current portfolio demonstrates hands-on lab work across Microsoft 365 tenant 
 
 ---
 
+## Certifications
+
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+
+<!-- Future certifications to display after completion:
+
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+
+- Microsoft Certified: Identity and Access Administrator Associate
+
+-->
+
 ## Featured Portfolio Labs
 
 | Lab | Focus Area | What it Demonstrates |
