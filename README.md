@@ -1,8 +1,8 @@
 # Patrick Igwilo
 
-## Service Desk | Microsoft 365 | Entra ID | IAM | CompTIA A+ | Network+ | Security+
+## Service Desk | Microsoft 365 | Entra ID | IAM | CompTIA Trifecta | ISC2 CC
 
-I am an IT professional focused on remote-first Service Desk, Microsoft 365 administration, Entra ID identity support, user lifecycle management, access control, and practical cybersecurity operations.
+I am an IT professional focused on remote-first Service Desk, Microsoft 365 administration, Microsoft Entra ID identity support, user lifecycle management, access control, and practical cybersecurity operations.
 
 My current portfolio demonstrates hands-on lab work across Microsoft 365 tenant administration, Joiner–Mover–Leaver workflows, Conditional Access security hardening, realistic helpdesk ticket scenarios, PowerShell administration, and Identity and Access Management access reviews.
 
